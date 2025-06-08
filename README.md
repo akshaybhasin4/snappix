@@ -69,10 +69,25 @@ Snappix was developed as an academic capstone project using project-based learni
 > 🚧 Planned enhancements: Template marketplace, multilingual support, team collaboration features
 
 ---
+## Images
 
-## 🤝 Contributing
+Login Page
+![Login Page](https://github.com/user-attachments/assets/1a111c46-5a18-45d5-8566-8ef38cc038b3)
 
-This project is open for collaboration and suggestions. Feel free to fork the repo, raise issues, or open PRs for improvements.
+Home Page
+![Home Page](https://github.com/user-attachments/assets/b69c8cd4-5213-493e-82c8-49fd9c185273)
+
+Home Page 2
+![Home Page 2](https://github.com/user-attachments/assets/be1cc94d-847f-4529-8462-0c1d3b30d93f)
+
+Canvas
+![Canvas](https://github.com/user-attachments/assets/d9053995-c068-42b4-af7f-8fe7984ca494)
+
+Canvas 2
+![Canvas 2](https://github.com/user-attachments/assets/13cda838-4ac6-477e-bcc0-304fd3447d18)
+
+Paypal Payment
+![Paypal Payment](https://github.com/user-attachments/assets/c4692f80-f284-4936-bd97-81fa46262504)
 
 ---
 
