@@ -15,7 +15,7 @@ Snappix bridges the gap between advanced design capabilities and user-friendly i
 ## 🌟 Key Features
 
 - 🎨 **Canvas Editor (Fabric.js):** Drag, drop, resize, rotate, and customize text, images, and shapes with an intuitive interface.
-- 🤖 **AI Image Generation:** Generate unique images from text prompts using AI models like DALL·E or Stable Diffusion.
+- 🤖 **AI Image Generation:** Generate unique images from text prompts using AI models like DALL·E or Stability AI.
 - ☁️ **Cloud Storage:** Save designs to the cloud and access them from anywhere.
 - 🖼️ **Image Upload & Editing:** Upload personal assets or choose from AI-generated suggestions.
 - 🔐 **Authentication & Role Management:** Secure login with role-based access (free vs premium) using Clerk/NextAuth.
